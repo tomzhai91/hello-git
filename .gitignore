@@ -1,0 +1,6 @@
+# ===== hello-git/.gitignore =====
+*.log          # 所有日志：调试垃圾
+Thumbs.db      # Windows 缩略图缓存
+Desktop.ini    # Windows 文件夹配置
+.vscode/       # 编辑器个人配置，团队各有各的
+.env           # 密码、密钥等秘密——绝不进仓库
